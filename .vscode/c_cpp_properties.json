@@ -30,10 +30,10 @@
                 "KEXPORT"
             ],
             "windowsSdkVersion": "10.0.18362.0",
-            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64"
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Program Files/LLVM/bin/clang.exe"
         }
     ],
     "version": 4
